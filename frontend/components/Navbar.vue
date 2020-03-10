@@ -6,10 +6,10 @@
       dark
       height="64"
     >
-      <v-app-bar-nav-icon></v-app-bar-nav-icon>
+      <v-app-bar-nav-icon />
 
       <v-toolbar-title>
-           <v-icon>mdi-heart</v-icon>Todo
+        <v-icon>mdi-heart</v-icon>Todo
       </v-toolbar-title>
 
       <div class="flex-grow-1" />
